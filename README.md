@@ -1,4 +1,28 @@
-<header>
+<header>I'm an enthusiastic helper and action-oriented doer that likes to see people smile because they just did something awesome!  😎
+
+ At work, you'll find me developing public learning content for GitHub's Accreditation, Certification, and Enablement (ACE) team.  That's evolving on the daily, so I'll wait a bit before I share more details!
+
+ In the past, I was deep in the energy industry (15+ years).  Back then, you could find me building frameworks and core (software) technologies for promoting energy transition and carbon out.  #HackThePlanet I was a pushy advocate for the Baker Hughes developers, and I tried my best to organize a GitHub organization @bh-ent-tech.  I was also heavily involved in the LatinX employee advocacy group as the tech guru and events leader.  Best volunteers ever!  And, great memories!  💚
+
+ ✨ My Dopamine Sources (interests)
+
+ ✈️ Visiting new places and cultures.  15 countries so far.  2 times around this fun merry-go-round.  🌍
+ 🚐 Occasional van dwelling
+ 🏡Home automation
+ ☕ Finding that niche, delighfully crazy coffee shop.
+ 👾 Video and IRL board games
+ 🙉 Learning non-programming languages ​​(🇩🇪🧑 🇷🇺🧒 🇲🇽🧒 🇯🇵👶)
+ 🧘‍♂️ Yoga (2x teacher trained)
+ 🕺 Ecstatic and Contemporary Dance
+
+ 🏢 If you're a current or past colleague
+
+ I'm always happy to provide another set of eyes or fill in that gap of "you don't know what you don't know".
+
+ Ask me about:
+ 🏅 Coding Best Practices – Particularly Python, Javascript-based, and C#.
+ 📖 Documentation Best Practices - It's like the gym.  We all know it should be done, but we don't actually do it every day.  Just do it!  ✅
+ ⚔️ Cybersecurity - Definitely not an expert, but we should always be learning more here.  Especially with AI going mainstream!  🧑‍🚀 GitHub - Pretty much anything from the end-user perspective.  Like really... I probably already broke that before or have an API example ready for you.  😉
 
 <!--
   <<< Author notes: Course header >>>
